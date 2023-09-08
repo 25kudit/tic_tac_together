@@ -198,7 +198,7 @@ class _ServerScreenState extends State<ServerScreen> {
                             );
                           });
                     },
-                    child: const Text("Share App with QR"),
+                    child: const Text("Share app with QR"),
                   ),
                   IconButton(
                     onPressed: () {
