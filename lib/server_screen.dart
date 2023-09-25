@@ -15,7 +15,7 @@ class ServerScreen extends StatefulWidget {
 
 class _ServerScreenState extends State<ServerScreen> {
   String appDriveLink =
-      "https://drive.google.com/drive/folders/1j2jfecUFIdPj8l5yBlbCEIjkxHZEPqk6?usp=sharing";
+      "https://drive.google.com/drive/folders/1K-VAyfETPjwjuVcZA0dvQTjbAXiSW59K?usp=sharing";
   String? ipAddress;
   ServerSocket? socket;
   final portController = TextEditingController();
